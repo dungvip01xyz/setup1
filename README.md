@@ -6,7 +6,7 @@ Danh sách các link được lấy từ `data.txt`:
 - [https://deltaexploits.gg/](https://deltaexploits.gg/)
 - [https://chromewebstore.google.com/detail/j2team-cookies/okpidcojinmlaakglciglbpcpajaibco](https://chromewebstore.google.com/detail/j2team-cookies/okpidcojinmlaakglciglbpcpajaibco)
 - [https://apkcombo.com/vi/mt-manager/bin.mt.plus/](https://apkcombo.com/vi/mt-manager/bin.mt.plus/)
-
+-https://cdn.gloopup.net/file/Delta-2.689.880.apk
 ---
 
 > **Ghi chú:** Nếu bạn muốn tự động tạo `README.md` từ `data.txt`, mình có thể gửi script Python/Node.js để đọc `data.txt` và sinh `README.md` tương ứng.
